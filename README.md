@@ -36,7 +36,7 @@ requirements.txt Python dependencies
 data/goalbot.json local data file (auto-created if missing)
 
 
-##Setup Instructions
+Setup Instructions
 ---
 
 Clone the repository
