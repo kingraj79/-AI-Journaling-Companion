@@ -34,9 +34,10 @@ main.py main Streamlit app
 requirements.txt Python dependencies
 
 data/goalbot.json local data file (auto-created if missing)
----
+
 
 ##Setup Instructions
+---
 
 Clone the repository
 git clone <your-repo-url>
