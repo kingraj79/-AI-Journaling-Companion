@@ -9,7 +9,7 @@ You can track goals, log daily updates, view history, and ask an AI companion qu
 ---
 
 ## 🚀 Features
-- Add / delete goals (active or inactive)
+- Add/delete goals (active or inactive)
 - Daily goal updates
 - AI feedback after each update
 - Ask Goalbot questions using your history
