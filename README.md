@@ -9,7 +9,9 @@ You can track goals, log daily updates, view history, and ask an AI companion qu
 ---
 ![Screenshot](image/image.png)
 
-
+Demo Video
+--
+https://youtu.be/__RsSiqPfzQ
 ## 🚀 Features
 - Add/delete goals (active or inactive)
 - Daily goal updates
