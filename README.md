@@ -28,9 +28,13 @@ You can track goals, log daily updates, view history, and ask an AI companion qu
 ---
 
 ## 📁 Project Structure
+
 main.py main Streamlit app
+
 requirements.txt Python dependencies
+
 data/goalbot.json local data file (auto-created if missing)
+
 #Setup Instructions
 
 Clone the repository
