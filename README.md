@@ -7,6 +7,7 @@ Goalbot is a **local-first goal journaling app** built with Streamlit and Ollama
 You can track goals, log daily updates, view history, and ask an AI companion questions — all **stored locally in JSON** and powered by **Llama 3.1** running on your machine.
 
 ---
+image/image.png
 
 ## 🚀 Features
 - Add/delete goals (active or inactive)
