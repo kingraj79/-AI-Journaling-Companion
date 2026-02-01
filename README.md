@@ -70,6 +70,7 @@ Open in browser:
 http://localhost:8501
 
 Data Storage
+--
 All user data is stored locally on your machine in:
 data/goalbot.json
 
@@ -78,6 +79,7 @@ If the file or folder does not exist, the app will create it automatically.
 No external database or cloud storage is used.
 
 Privacy
+--
 Goalbot is private by design.
 
 Ollama runs entirely on your local machine, and the Llama model processes all prompts locally.
